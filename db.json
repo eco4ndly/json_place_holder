@@ -1,5 +1,4 @@
-[
-   "amex_plan_details":{
+{"amex_plan_details":{
       "status":"200",
       "tabs":[
          {
@@ -64,9 +63,7 @@
          }
       ]
    },
-
-"the_photos" : {
-   "photos" : [
+"photos": [
     {
         "copyright": "ESA/HubbleNASA",
         "date": "2019-12-01",
@@ -322,5 +319,3 @@
     }
 ]
 }
-
-]
