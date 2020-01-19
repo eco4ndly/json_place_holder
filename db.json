@@ -1,5 +1,4 @@
-{
-   "amex_plan_details":{
+"amex_plan_details":{
       "status":"200",
       "tabs":[
          {
@@ -64,4 +63,3 @@
          }
       ]
    }
-}
